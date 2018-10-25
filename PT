@@ -1,0 +1,29 @@
+{
+  "symbol": "PT",
+  "address": "0x3267Cb4EaeAd5134dDb02d5356FA2699287D587F",
+  "overview":{
+        "en": "Token Description.",
+        "zh": ""
+  },
+  "email": "pointdidi@pointdidi.com",
+  "website": "https://pointdidi.com/",
+  "whitepaper": "https://ppoint2.com/wp-content/uploads/2018/10/Point_white_paper-v1.1.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-10-010",
+  "initial_price":{
+        "ETH":" 0.00025 ETH",
+        "USD":"0.05 USD",
+        "BTC":"0.000007615 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": " ",
+    "telegram": "https://t.me/pointdidi",
+    "github": "https://github.com/EddiwWang/token-profile",
+    "facebook": "https://www.facebook.com/groups/2089776167719632/",
+    "reddit": " ",
+    "slack": " ",
+    "medium": " "
+  }
+}
+© 2018 GitHub, Inc.
